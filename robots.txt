@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://amareuna.github.io/EHW/sitemap_index.txt
+Sitemap: https://amareuna.github.io/NMD/sitemap_index.txt
+Sitemap: https://amareuna.github.io/bZh/sitemap_index.txt
+Sitemap: https://amareuna.github.io/vjM/sitemap_index.txt
